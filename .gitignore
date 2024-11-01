@@ -1,4 +1,5 @@
 venv
 **/target/
-**/Cargo.lock
+ferrox/Cargo.lock
+crossbow/Cargo.lock
 *.DS_Store
